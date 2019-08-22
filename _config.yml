@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: laoxu666888/laoxu666888.github.io
 github_url: https://github.com/laoxu666888
 url: https://laoxu666888.github.io/
-enforce_ssl: ityouknow.com
+# enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
